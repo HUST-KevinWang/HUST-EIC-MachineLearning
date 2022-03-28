@@ -1,2 +1,2 @@
 # HUST-EIC-MachineLearning
-HUST电信机器学习
+华中科技大学电信机器学习
